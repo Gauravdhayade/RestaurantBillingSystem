@@ -14,6 +14,8 @@ public class MenuManager {
 		addFoodItem("Cheese Sandwich", 120);
 		addFoodItem("French Fries", 80);
 		addFoodItem("Mango Shake", 110);
+		addFoodItem("Ice-Cream", 65);
+		addFoodItem("Apple Shake", 110);
 	}
 
 	public void addFoodItem(String name, double price) {

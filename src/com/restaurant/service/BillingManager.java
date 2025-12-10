@@ -11,7 +11,7 @@ public class BillingManager {
 
 	public void printInvoice(Order order) {
 		System.out.println("\n=========================================");
-		System.out.println("          THE JAVA BITE RESTAURANT");
+		System.out.println("          THE CAFE KATTA RESTAURANT");
 		System.out.println("=========================================");
 		double subtotal = 0;
 
