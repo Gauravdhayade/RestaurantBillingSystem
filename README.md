@@ -1,32 +1,32 @@
-# 🍽️ Restaurant Billing System (Java Console Project)
+ Restaurant Billing System (Java Console Project)
 
-## 🔹 Overview
+Overview
 The **Restaurant Billing System** is a console-based Java application built to simplify billing and order management for small restaurants.  
 It allows users to **add/remove menu items dynamically**, take **customer orders**, and generate a **detailed bill with GST, service charge, and discounts**.  
 The project demonstrates **Core Java (OOP, Collections, Exception Handling)** and **modular design** using multiple packages.
 
 ---
 
-## ⚙️ Features
+ Features
 
-✅ **Dynamic Menu Management** — Add or remove food items any time  
-✅ **Customer Ordering** — Select multiple items with quantity  
-✅ **Bill Generation** — Calculates total, GST (5%), service charge (2%), and discount (10% for > ₹500)  
-✅ **Itemized Receipt** — Displays each item with price, quantity & total  
-✅ **Modular Design** — Clean structure with `model`, `service`, `util`, and `main` packages  
-✅ **Console-based Interface** — Runs directly in terminal, no GUI or DB required  
-
----
-
-## 🧠 Technologies Used
-- ☕ **Core Java (OOPs, Collections, Exception Handling)**
-- 📦 **Package-based architecture**
-- 🧾 **Console I/O using Scanner**
-- 💻 **Windows / Linux terminal compatible**
+Dynamic Menu Management** — Add or remove food items any time  
+Customer Ordering** — Select multiple items with quantity  
+Bill Generation** — Calculates total, GST (5%), service charge (2%), and discount (10% for > ₹500)  
+Itemized Receipt** — Displays each item with price, quantity & total  
+Modular Design** — Clean structure with `model`, `service`, `util`, and `main` packages  
+Console-based Interface** — Runs directly in terminal, no GUI or DB required  
 
 ---
 
-## 🗂️ Folder Structure
+Technologies Used
+- Core Java (OOPs, Collections, Exception Handling)**
+- Package-based architecture**
+- Console I/O using Scanner**
+- Windows / Linux terminal compatible**
+
+---
+
+Folder Structure
 
 RestaurantBillingSystem/
 │
@@ -46,12 +46,9 @@ RestaurantBillingSystem/
 │
 └── README.md
 
-yaml
-Copy code
-
 ---
 
-## 💵 Sample Output
+Sample Output
 
 ========= WELCOME TO THE JAVA BITE =========
 1️⃣ Show Menu
